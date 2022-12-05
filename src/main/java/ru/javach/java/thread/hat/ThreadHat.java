@@ -1,6 +1,5 @@
 package ru.javach.java.thread.hat;
 
-int number;
 int previous;
 
 [b]Что такое Java?[/b]
