@@ -3,8 +3,6 @@ package ru.javach.java.thread.hat;
 int number;
 int previous;
 
-[b]Java Thread №number[/b]
-
 [b]Что такое Java?[/b]
 Java - язык программирования с классами [spoiler](aka объектно ориентированный)[/spoiler], где нужно явно указывать тип объявляемых переменных [spoiler](aka со строгой типизацией)[/spoiler].
 [b]Заебись. А что ещё делает Java лучшим языком программирования?[/b]
