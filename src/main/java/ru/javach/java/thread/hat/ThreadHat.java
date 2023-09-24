@@ -6,4 +6,4 @@ int previous;
 
 Вики по вкатыванию в джаву: https://github.com/java2ch/java-thread/wiki
 
-Предыдущий: >>previous
+Предыдущий: >>\{previous}
